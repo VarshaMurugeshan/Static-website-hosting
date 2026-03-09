@@ -49,6 +49,11 @@ Uploaded static website files including:
 
 * Used the **S3 website endpoint URL** to access the deployed portfolio website.
 
+## Demo Video
+
+Full deployment demonstration:
+
+https://youtu.be/TVbtSsqGDVM
 
 ## Key Learning Outcomes
 
